@@ -8,6 +8,7 @@
 *.pdb
 *.obj
 *.log
+vcpkg/
 
 # Build output
 x64/
